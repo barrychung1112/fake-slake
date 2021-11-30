@@ -1,5 +1,4 @@
-This project is mean to build a Slack like website base on firebase.
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+This project is mean to build a Slack like website base on firebase and was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 You can see online project display on [this page](https://fake-slake.firebaseapp.com/) or [here](fake-slake.web.app)
 
